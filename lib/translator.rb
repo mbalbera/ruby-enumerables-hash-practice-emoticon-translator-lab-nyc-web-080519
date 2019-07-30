@@ -23,4 +23,5 @@ def get_english_meaning
     library["get_meaning"][japanese_emoticon]
   else
     "Sorry, that emoticon was not found"
+  end
 end
